@@ -12,6 +12,7 @@ to Start this Project you need to have installed XAMPP Control Panal
 5. create Database with name 'users' and a table 'tb_user'
 
 6. Add those atributes to table 'tb_user' 6 Columns :
+ 
  1.ID (INT) 255 , AUTO_INCREMENT	
  
  2.name varchar(255) 
