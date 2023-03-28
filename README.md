@@ -1,7 +1,7 @@
 Hello this is a unfinished  E-Commerce project with PHP SQL HTML&CSS and JavaScript
 to Start this Project you need to have installed XAMPP Control Panal 
 
-1.Install XAMPP Control Panel : https://www.apachefriends.org/
+1.Install XAMPP Control Panel : https://www.apachefriends.org/ ,
 2. Start Apache and MySQL
 3. Copy this project to: C:\xampp\htdocs
 4. Go to http://localhost/phpmyadmin/
