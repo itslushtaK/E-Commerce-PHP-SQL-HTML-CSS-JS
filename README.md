@@ -13,10 +13,15 @@ to Start this Project you need to have installed XAMPP Control Panal
 
 6. Add those atributes to table 'tb_user' 6 Columns :
  1.ID (INT) 255 , AUTO_INCREMENT	
+ 
  2.name varchar(255) 
+ 
  3.username varchar(255)
+ 
  4.email varchar(255)
+ 
  5.password varchar(255)
+ 
  6.role enum('user', 'admin')
 
 After this you can set your Database in  'db.php' and enjoy the project :)
