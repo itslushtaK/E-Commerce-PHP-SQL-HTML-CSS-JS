@@ -1,0 +1,20 @@
+
+body{
+    background: linear-gradient(#ffd6d6 ,#fff);
+    
+}
+h3{
+    text-align: center;
+}
+
+.gg  , .fb{
+    filter: grayscale();
+    cursor: pointer;
+   
+    width: 45px;
+}
+.gg:hover ,.fb:hover{
+        filter: none;
+}
+
+
